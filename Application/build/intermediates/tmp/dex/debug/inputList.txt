@@ -1,0 +1,6 @@
+C:\Users\qwastical\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\classes\debug
+C:\Users\qwastical\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-c957f1452e775c03ff4e4d956d44943035048428.jar
+C:\Users\qwastical\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\classes-e56c62e467268a5c529557ac179b7dd5cc344261.jar
+C:\Users\qwastical\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\classes-bad917db75a0fbcbff3a0004d735b2783434e440.jar
+C:\Users\qwastical\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-b1afee6bab2a035a7ada910a3547f2be4453f9d8.jar
+C:\Users\qwastical\AndroidStudioProjects\HorizontalPaging\Application\build\intermediates\pre-dexed\debug\classes-fd1a0518a348ea90cd94b83141b7e7ef2ae585b9.jar
