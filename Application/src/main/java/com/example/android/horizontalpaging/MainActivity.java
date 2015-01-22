@@ -31,8 +31,6 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
 
         final ActionBar actionBar = getActionBar();
         actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
-        actionBar.setBackgroundDrawable(getResources().getDrawable(R.color.schedufy_red));
-        actionBar.setStackedBackgroundDrawable(getResources().getDrawable(R.color.dunno));
 
         mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
 
